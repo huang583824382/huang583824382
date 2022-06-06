@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/huang583824382?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=huang583824382&theme=xcode" /> </div> -->
+
+![huang583824382's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang583824382&show_icons=true&layout=compact&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huang583824382&layout=compact&hide_border=true&count_private=true&langs_count=8&hide=jupyter%20notebook,html,css,less,ejs,scss,makefile)
